@@ -22,9 +22,6 @@ melhorias vão ser feitas em breve.
 - Flexbox- CSS
 - HTML 5
 
-## Uma breve Visualização..
-[ <img src="./"> ]
-
 
 ## Autor
 
