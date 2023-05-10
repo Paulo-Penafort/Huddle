@@ -85,7 +85,7 @@ body {
     font-size: 1.6rem;
 }
 
-i :hover {
+i:hover {
     transition: 0.3s ease-in-out;
     color: var(--btn-bg);
     border-color: var(--btn-bg);
